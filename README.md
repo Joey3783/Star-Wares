@@ -9,7 +9,6 @@ Microcomputer lab. project in assembly code on MS-DOS
 ## 操作方式
 
 Player 1       Player 2
--------------------------
 Left  -q   |   Left   -u
 Right -e   |   Right  -o
 Shoot -w   |   Shoot  -i
