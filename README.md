@@ -1,12 +1,12 @@
 # Star-Wares
 Microcomputer lab. project in assembly code on MS-DOS
 
-##規則
+#規則
 
-兩台飛行器相互射擊，將對方的生命耗盡即可獲勝！
+##兩台飛行器相互射擊，將對方的生命耗盡即可獲勝！
 
-##操作方式
-
+#操作方式
+--
 Player 1       Player 2
 -------------------------
 Left  -q   |   Left   -u
